@@ -1,6 +1,6 @@
 function Cutomizer() {
   return (
-    <div>Cutomizer</div>
+    <div></div>
   )
 }
 
